@@ -1,0 +1,14 @@
+//Student Record Management System
+
+A simple command-line Java application for managing student records. This application allows users to add, view, update, and delete student information.
+
+// Features
+- Add new student records
+- View all student records
+- Update existing student information
+- Delete student records
+
+// Prerequisites
+- Java Development Kit (JDK) 8 or later
+- An IDE (like Eclipse, IntelliJ IDEA, or VS Code) for running the Java application
+
