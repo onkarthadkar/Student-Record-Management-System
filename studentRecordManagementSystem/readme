@@ -12,3 +12,9 @@ A simple command-line Java application for managing student records. This applic
 - Java Development Kit (JDK) 8 or later
 - An IDE (like Eclipse, IntelliJ IDEA, or VS Code) for running the Java application
 
+// How to Execute the Program
+-Using an IDE
+-Clone or download this repository
+-Open the project in your preferred Java IDE
+-Locate the StudentRecordManagement.java file in the src/studentRecordManagementSystem package
+-Right-click on the file and select "Run" or "Run as Java Application"
